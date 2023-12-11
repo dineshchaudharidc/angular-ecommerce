@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+/* Add these styles to make the table dark */
+.dark-table {
+    background-color: #343a40; /* Dark background color */
+    color: white; /* Light text color */
+}
+
+.dark-header {
+    border-color: #454d55; /* Dark border color for header */
+}
+
+.dark-cell {
+    border-color: #454d55; /* Dark border color for cells */
+}
